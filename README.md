@@ -53,7 +53,7 @@ It helps me train huge NLP networks on my laptop in a fraction of the original t
 Remko Weingarten
 
 Remko66@gmail.com
-
+(would love it if you drop me a line, now going on to write a cornet library)
 
 Here the loss graph for cornet. Look at its distinctive pattern:
 
