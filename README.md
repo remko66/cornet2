@@ -1,11 +1,11 @@
 # Corrective neural networks (cornet)
 ## How to train minimal 3 times faster. Train a big network on your laptop!
-
+(Works on all big neural nets i tried it on so far!!!!)
 
 ## The basic idea behind cornet
 
 We tend to make a complex neural net and then train it all together. In nature that is not how things work. 
-Often during evolution extra complexity is added without to add new or improved functionality. Not all layers for at once.
+Often during evolution extra complexity is added to add new or improved functionality. Not all layers for at once.
 
 This idea was taken earlier by Nvidea to make the progressive Gan. But although they add layers, everything underneath keeps trainable and therefor changing.
 It helps with training time, but can we not do (much) better...
