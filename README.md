@@ -57,8 +57,8 @@ Remko66@gmail.com
 
 Here the loss graph for cornet. Look at its distinctive pattern:
 
-![loss](./graph/cornet_loss.png)
+![loss](blob/master/graphs/cornet_loss.png)
 
 Compared to training of original:
 
-![loss](./graph/ori_loss.png)
+![loss](blob/master/graphs/ori_loss.png)
